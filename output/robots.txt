@@ -1,0 +1,4 @@
+Sitemap: http://trips.philippov.info/sitemapindex.xml
+
+User-Agent: *
+Host: trips.philippov.info
