@@ -8,28 +8,25 @@
 .. type: text
 .. status:
 
+
+.. figure:: /images/summer-trip-2016_pl_de_bl/20160709060045.jpg
+
 Разбирал архивы фотокарточек и нашёл какое-то количество. Качество такое себе, но пусть висят для истории.
 
 
 .. TEASER_END    
 
+
+   
 .. contents:: :depth: 3
 
-
-============
- Туда
-============
-
-
-.. thumbnail:: /images/summer-trip-2016_pl_de_bl/20160709060045.jpg
-
-.. thumbnail:: /images/summer-trip-2016_pl_de_bl/20160709201621.jpg
-
-               
+             
 ===========
 Вильнюс
 ===========
 
+
+.. thumbnail:: /images/summer-trip-2016_pl_de_bl/20160709201621.jpg
 
 .. thumbnail:: /images/summer-trip-2016_pl_de_bl/20160710092813.jpg
 
