@@ -23,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/2016.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-02-28T08:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/2017.xml</loc>
@@ -34,16 +34,20 @@
   <lastmod>2020-02-11T09:14:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://trips.philippov.info/categories/2019.xml</loc>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://trips.philippov.info/categories/austria.xml</loc>
-  <lastmod>2020-02-11T09:14:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/auto.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/belgium.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-02-28T08:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/brittany.xml</loc>
@@ -59,7 +63,7 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/deutschland.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-02-28T08:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/eda.xml</loc>
@@ -83,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/italy.xml</loc>
-  <lastmod>2020-02-11T09:14:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/latvia.xml</loc>
@@ -95,11 +99,11 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/lithuania.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-02-28T08:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/luxembourg.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-02-28T08:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/lyzhi.xml</loc>
@@ -119,11 +123,15 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/poland.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/russia.xml</loc>
   <lastmod>2020-02-11T09:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://trips.philippov.info/categories/slovenia.xml</loc>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/categories/switzerland.xml</loc>
@@ -175,10 +183,10 @@
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/rss.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://trips.philippov.info/sitemap.xml</loc>
-  <lastmod>2020-02-27T12:58:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>

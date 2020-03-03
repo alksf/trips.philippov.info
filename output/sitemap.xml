@@ -39,11 +39,11 @@
  </url>
  <url>
   <loc>http://trips.philippov.info/archive.html</loc>
-  <lastmod>2020-02-27T12:55:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>http://trips.philippov.info/categories/</loc>
-  <lastmod>2018-10-02T14:13:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>http://trips.philippov.info/categories/2011/</loc>
@@ -72,6 +72,10 @@
  <url>
   <loc>http://trips.philippov.info/categories/2018/</loc>
   <lastmod>2018-10-02T14:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://trips.philippov.info/categories/2019/</loc>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>http://trips.philippov.info/categories/austria/</loc>
@@ -166,6 +170,10 @@
   <lastmod>2018-10-02T13:21:00Z</lastmod>
  </url>
  <url>
+  <loc>http://trips.philippov.info/categories/slovenia/</loc>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://trips.philippov.info/categories/switzerland/</loc>
   <lastmod>2018-10-02T13:21:00Z</lastmod>
  </url>
@@ -215,7 +223,7 @@
  </url>
  <url>
   <loc>http://trips.philippov.info/index-1.html</loc>
-  <lastmod>2020-02-27T12:55:00Z</lastmod>
+  <lastmod>2020-03-03T18:16:00Z</lastmod>
  </url>
  <url>
   <loc>http://trips.philippov.info/listings/</loc>
@@ -268,6 +276,10 @@
  <url>
   <loc>http://trips.philippov.info/posts/summer-trip-2018_fr_rst/</loc>
   <lastmod>2018-10-02T09:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://trips.philippov.info/posts/summer-trip-2019_sl/</loc>
+  <lastmod>2020-02-11T09:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://trips.philippov.info/posts/trans-european-trip-2011/</loc>

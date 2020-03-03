@@ -1,12 +1,12 @@
 .. title: Словения (27 июля - 11 августа 2019 г.)
 .. slug: summer-trip-2019_sl
-.. date: 2020-02-11 10:10:10 UTC+03:00
+.. date: 2020-03-03 20:20:20 UTC+03:00
 .. tags: 2019, Slovenia, Italy, Austria, Poland, auto
 .. category: 
 .. link: 
 .. description: 
 .. type: text
-.. status: draft
+.. status:
 
 Традиционные несколько слов и картинок по результатам летней покатушки 2019 года. Переписывать своими словами Википедию и путеводители мне не хочется, так что слов будет мало, всё больше картинки, много картинок.
 
@@ -138,8 +138,6 @@
 
 .. figure:: /images/summer-trip-2019_sl/20190728195830.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190728195854.jpg
-
 Вернуться в Краков можно, но спешить с этим не будем.
 
 
@@ -173,6 +171,8 @@
 .. figure:: /images/summer-trip-2019_sl/20190729180235.jpg
 
 В нескольких минутах ходьбы расположен Музей Хундертвассера, к сожалению, он уже закрывался и внутрь мы не попали.
+
+.. figure:: /images/summer-trip-2019_sl/20190729180304.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190729180908.jpg
 
@@ -239,7 +239,7 @@
 Птуй (Ptuj)
 -----------
 
-Всего в 30 минутах Птуй - совсем другое дело, тут явно стоит провести несколько часов. Красивые виды, река, черепичные крыши, рельеф и замок, где сейчас расположен городской музей.
+Всего в 30 минутах Птуй - один из самых старых городов Словении, тут явно стоит провести несколько часов. Красивые виды, река, черепичные крыши, рельеф и замок, где сейчас расположен городской музей. 
 
 .. figure:: /images/summer-trip-2019_sl/20190730145452.jpg
 
@@ -315,13 +315,7 @@
 
 .. figure:: /images/summer-trip-2019_sl/20190731111654.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190731111711.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190731111713.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190731111810.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190731111813.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190731111821.jpg
 
@@ -445,8 +439,8 @@
 
 Жарко и душно, вот-вот должен начаться дождь.
 
-.. figure:: /images/summer-trip-2019_sl/20190731180221.jpg
-
+.. figure:: /images/summer-trip-2019_sl/20190731180234.jpg
+            
 .. figure:: /images/summer-trip-2019_sl/20190731180335.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190731182204.jpg
@@ -508,9 +502,6 @@
 .. figure:: /images/summer-trip-2019_sl/20190801132431.jpg
 
 Идём к водопаду Ринка.
-
-.. figure:: /images/summer-trip-2019_sl/20190801132433.jpg
-
 Интересно, как тут бушует стихия в половодье.
 
 .. figure:: /images/summer-trip-2019_sl/20190801132624.jpg
@@ -526,10 +517,6 @@
 .. figure:: /images/summer-trip-2019_sl/20190801133724.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190801133729.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190801133733.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190801133741.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190801133749.jpg
 
@@ -727,8 +714,6 @@
 
 .. figure:: /images/summer-trip-2019_sl/20190803105522.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190803105527.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190803093718.jpg
 
 И от второго главного озера Словении, мы едем к первому - озеру Блед.
@@ -786,21 +771,13 @@
 
 Так значительно лучше.
 
-.. figure:: /images/summer-trip-2019_sl/20190803143812.jpg
+.. figure:: /images/summer-trip-2019_sl/20190803143818.jpg
 
 Но искусство требует.
 
-.. thumbnail:: /images/summer-trip-2019_sl/20190803143818.jpg
+.. figure:: /images/summer-trip-2019_sl/20190803143845.jpg
 
-.. thumbnail:: /images/summer-trip-2019_sl/20190803143824.jpg
-
-.. thumbnail:: /images/summer-trip-2019_sl/20190803143845.jpg
-
-.. thumbnail:: /images/summer-trip-2019_sl/20190803145345.jpg
-
-.. thumbnail:: /images/summer-trip-2019_sl/20190803145348.jpg
-
-.. thumbnail:: /images/summer-trip-2019_sl/20190803145528.jpg
+.. figure:: /images/summer-trip-2019_sl/20190803145345.jpg
 
             
 Каньон Винтгар
@@ -868,8 +845,6 @@
 .. figure:: /images/summer-trip-2019_sl/20190803193015.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190803193041.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190803193112.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190803193126.jpg
 
@@ -1391,15 +1366,11 @@ St. George's Parish Church
 
 .. figure:: /images/summer-trip-2019_sl/20190807123711.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190807124208.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190807124210.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807124226.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807124227.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190807124229.jpg
 
 "Матушка, поднимайтесь, хватит фотографироваться."
 
@@ -1438,8 +1409,6 @@ St. George's Parish Church
 .. figure:: /images/summer-trip-2019_sl/20190807132202.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807132300.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190807132314.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807132539.jpg
 
@@ -1546,8 +1515,6 @@ St. George's Parish Church
 
 .. figure:: /images/summer-trip-2019_sl/20190807162646.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190807162646.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190807162657.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807162730.jpg
@@ -1587,19 +1554,11 @@ St. George's Parish Church
 
 .. figure:: /images/summer-trip-2019_sl/20190807174239.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190807174245.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190807174248.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807174258.jpg
 
-.. figure:: /images/summer-trip-2019_sl/20190807174325.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190807174327.jpg
-
 .. figure:: /images/summer-trip-2019_sl/20190807174329.jpg
-
-.. figure:: /images/summer-trip-2019_sl/20190807174330.jpg
 
 .. figure:: /images/summer-trip-2019_sl/20190807174350.jpg
 
