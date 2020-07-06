@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>~/var/log/trips/</title><link>http://trips.philippov.info/</link><description>Our trips.</description><atom:link href="http://trips.philippov.info/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ru</language><lastBuildDate>Thu, 12 Mar 2020 13:55:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Эстония, Латвия, Литва (11 - 26 июля 2015 г.)</title><link>http://trips.philippov.info/posts/summer-trip-2015_ee_lv_lt/</link><dc:creator>Aleksey Philippov</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Примечание от 11 марта 2020: немного обновил пост, добавил оставшиеся фотографии с моего телефона (хотя их качество в 2020 вызывает лишь кровь из глаз). Сам отчёт, вероятно, уже никогда не будет дописан... Sad but true..&lt;/em&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>~/var/log/trips/</title><link>http://trips.philippov.info/</link><description>Our trips.</description><atom:link href="http://trips.philippov.info/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ru</language><lastBuildDate>Tue, 30 Jun 2020 08:08:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Наши покатушки.</title><link>http://trips.philippov.info/posts/nashi-pokatushki/</link><dc:creator>Aleksey Philippov</dc:creator><description>&lt;div&gt;&lt;p&gt;В пылу весенней самоизоляции-2020 нарисовал сводную карту наших летних покатушек.&lt;/p&gt;
+&lt;iframe width="100%" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/embed?mid=1ngjmoVSnMXNqjhI0BemNtEWoN-rm1CTG"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>auto</category><guid>http://trips.philippov.info/posts/nashi-pokatushki/</guid><pubDate>Tue, 30 Jun 2020 07:56:42 GMT</pubDate></item><item><title>Эстония, Латвия, Литва (11 - 26 июля 2015 г.)</title><link>http://trips.philippov.info/posts/summer-trip-2015_ee_lv_lt/</link><dc:creator>Aleksey Philippov</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Примечание от 11 марта 2020: немного обновил пост, добавил оставшиеся фотографии с моего телефона (хотя их качество в 2020 вызывает лишь кровь из глаз). Сам отчёт, вероятно, уже никогда не будет дописан... Sad but true..&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Вернулись из поездки по Балтийскому региону:&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="Маршрут" src="http://trips.philippov.info/images/summer-trip-2015_ee_lv_lt/route.png"&gt;
@@ -6223,91 +6224,4 @@ III&lt;/a&gt;, небольшой обзор которой будет где-т
 &lt;div class="figure"&gt;
 &lt;img alt="/images/naryan-mar-jan-2016/Screenshot_2016-01-22-15-50-11.png" src="http://trips.philippov.info/images/naryan-mar-jan-2016/Screenshot_2016-01-22-15-50-11.png"&gt;
 &lt;/div&gt;
-&lt;p&gt;На взлёт!&lt;/p&gt;&lt;/div&gt;</description><category>2016</category><category>Naryan-Mar</category><category>North</category><category>Russia</category><guid>http://trips.philippov.info/posts/naryan-mar-jan-2016/</guid><pubDate>Mon, 25 Jan 2016 10:02:33 GMT</pubDate></item><item><title>Эстония, Латвия, Литва (11 - 26 июля 2015 г.)</title><link>http://trips.philippov.info/posts/summer-trip-2015/</link><dc:creator>Aleksey Philippov</dc:creator><description>&lt;div&gt;&lt;p&gt;Вернулись из поездки по Балтийскому региону:&lt;/p&gt;
-&lt;iframe width="100%" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/embed?mid=z3kUA6F-XHIY.k2a02Q-qEUrQ"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;15 дней, 3981 км.&lt;/p&gt;
-&lt;!--TEASER_END--&gt;
-
-&lt;h3&gt;Подготовка&lt;/h3&gt;
-&lt;p&gt;Можно сказать, что к поездке по Балтийскому региону мы готовились каждый год последние 5 лет, как минимум, в качестве запасного варианта. &lt;del&gt;Взлетевший евро&lt;/del&gt; рухнувший рубль и короткий отпуск дали понять, что время &lt;em&gt;Прибалтики&lt;/em&gt; настало. Начало июля было достаточно жарким и прохладное Балтийское море казалось очень логичным дополнением. &lt;a href="http://trips.philippov.info/posts/summer-trip-2014.html"&gt;Поездка 2014 года&lt;/a&gt; показала, что АКБ "не держит" холодильник даже одну ночь - купили новый АКБ. Заменили лобовое стекло, которое тоже показывало трещину. Визы получали чешские.&lt;/p&gt;
-&lt;h3&gt;День 1. 11 Июля: Москва - Тарту.&lt;/h3&gt;
-&lt;p&gt;Вечер 10 июля посвятил игре в тетрис, в попытках разместить скарб по новому, но старый вариант отказался наиболее оптимальным: в боксе сумки с одеждой и спальники; в багажнике: холодильник, коробка для продуктов, кухонная утварь и палатка; коляска ехала на переднем пассажирском месте. Выехали около 6 утра и достаточно быстро доехали до МАПП Куничина Гора. Неприятно удивили цены на ягоды у торговцев вдоль М9 - чем ближе граница, тем выше цены, даже в Москве ягоды были дешевле. Переход занял рекордные для нас 22 минуты. Отъехав несколько км от границы, остановились на обед.
-&lt;img alt="Готовим" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0588.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;На ночь встали в ближайшем к Тарту кемпинге при гостевом доме туристического хутора Куре.&lt;/p&gt;
-&lt;h3&gt;День 2-3. 12-13 Июля: Тарту, Вильянди, Таллин.&lt;/h3&gt;
-&lt;p&gt;Судя по погоде, лето закончилось. В Тарту приехали под дождём, который регулярно переходил в ливень, под которым мы и провели в городе несколько часов, гуляя по центру. Приятный город, но очень неприятная погода заставила ретироваться и двигаться в сторону Таллина. По пути заехали в город Вильянди, центр которого оказался просто великолепным, а учитывая прекратившийся дождь, оставил о себе исключительно приятные воспоминания.
-&lt;img alt="Вильянди" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0589.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Вильянди" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0590.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Вильянди" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0593.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;В Таллине остановились в Tallinn City Camping, в котором созданы все условия, чтобы возникло желание "быстро переночевать и уехать".
-&lt;img alt="Tallinn City Camping" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0596.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Tallinn City Camping" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0609.JPG" title="Соседи по кемпингу"&gt;&lt;/p&gt;
-&lt;p&gt;Не рекомендуем, но альтернатив вроде бы нет. Поставили палатку и поехали гулять по вечернему центру. Стоимость парковки в центре совершенно не гуманная и на следующий день мы добирались в центр на общественном транспорте. Посмотрев исторический центр как вечером, так и днём, можем уверенно сказать, что вечером значительно лучше.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0601.JPG" title="Вся суть исторического центра Таллина в одном кадре"&gt;&lt;/p&gt;
-&lt;h3&gt;День 4. 14 Июля: остров Хийумаа.&lt;/h3&gt;
-&lt;p&gt;День начали с посещения Монастырь Святой Биргитты, находящийся в районе Пирита.
-&lt;img alt="Монастырь Святой Биргитты" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0614.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Монастырь Святой Биргитты" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0620.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;Вечером 13 долго обсуждали и прикидывали на какой из островов едем дальше, дожди прекратились, но температура не поднималась выше 19℃, т.ч. решили ограничиться островом Сааремаа. По пути заехали в небольшой музей паровозов в городке Хаапсалу. Подъехали к очереди на паром, судя по табло, до погрузки оставалось 10 минут, что обрадовало, и я немного удивился, тому, что в расписании паромы отправлялись раз в час. Посмотрел карту: мы стоим в очереди на паром на о. Хийумаа.Для меня загадка, каким образом я выбрал такой пункт назначения в TomTom, но особого расстройства мы не испытали.
-&lt;img alt="Переправа" src="http://trips.philippov.info/images/summer-trip-2015/IMG_20150714_162553.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;По факту, Хийумаа - одно из самых лучших мест, посещённых нами за эту поездку. На мой взгляд, Ристимяги (или Гора Крестов) производит большее впечатление, нежели гора крестов близ Шяуляй.
-&lt;img alt="Холм крестов" src="http://trips.philippov.info/images/summer-trip-2015/IMG_20150724_192756.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Небольшой участок леса буквально заполнен крестами из всевозможных материалов, в ходи идут палки, веточки, кусочки изоленты, шишки, камни, в общем, всё, что есть под рукой. Всё началось 20-ого августа 1781 года, когда на этом месте собралось для богослужения несколько сотен шведов, которых выселяли на Украину. Первоначально Ристимяги являлось местом, где покидающие острова люди оставляли свои кресты. Сейчас же всё поменялось, и теперь кресты оставляют те, кто впервые прибыл на остров.
-&lt;img alt="Холм крестов" src="http://trips.philippov.info/images/summer-trip-2015/IMG_20150724_192854.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Очень атмосферное место, настойчиво рекомендуем.
-Но главными достопримечательностями на острове, безусловно, являются исторические маяки и природа. Стоит приехать сюда на велосипеде на неделю, чтобы неспешно объехать весь остров.&lt;/p&gt;
-&lt;p&gt;Культура кемпингов в Эстонии совершенно не развита, в чём мы убедились в Тарту и Таллине, по этому для ночёвки решили воспользоваться &lt;a href="http://loodusegakoos.ee/kuda-poiti/zonq-otdqha/zona-otdqha-hiiumaa/saaretirbi-telkimisala"&gt;&lt;em&gt;бесплатным для установки палаток Сяэретирби&lt;/em&gt;&lt;/a&gt;, расположенным на полуострове Кассари.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0656.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;В Эстонии существует &lt;a href="http://www.rmk.ee/"&gt;Центр Управления Государственными Лесами&lt;/a&gt;, который кроме всего прочего поддерживает и маркирует туристические тропы, содержит так называемые &lt;em&gt;места для палаток&lt;/em&gt; - небольшие участки с 1-2 навесами, несколько столов, мангалом, поленницей дров и туалетом. Таких мест в Эстонии десятки, находятся они в самых приятных природных уголках и совершенно бесплатны. На &lt;a href="http://loodusegakoos.ee/ru"&gt;сайте&lt;/a&gt; можно найти точные координаты, либо скачать приложение.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0658.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0660.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;По периметру лагеря натянут провод, находящийся под напряжением - это защита от диких зверей, которые водятся в округе.
-Вечером провели испытание нового &lt;a href="http://www.ghillie-kettle.co.uk/"&gt;походного самовара&lt;/a&gt;. Отличная вещь, вода закипает за 3 минуты, т.ч. для чая не надо тратить газ, ну и эстетика, конечно.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0654.JPG"&gt;&lt;/p&gt;
-&lt;h3&gt;День 4. 14 Июля: маяк Кыпу, остров Сааремаа.&lt;/h3&gt;
-&lt;p&gt;Великолепное место, тут стоит провести пару дней просто наслаждаясь природой и впитывая запах можжевельника, но мы ограничены по времени.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0663.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;До парома на Сааремаа есть ещё несколько часов, т.ч. решаем осмотреть округу. Для начала заехали посмотреть &lt;a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BD%D1%8F_%D0%9A%D0%B0%D1%81%D1%81%D0%B0%D1%80%D0%B8"&gt;часовню Кассари&lt;/a&gt; - единственную действующую часовню из камня и с соломенной крышей.
-&lt;img alt="Часовня Кассари" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0664.JPG" title="Часовня Кассари"&gt;&lt;/p&gt;
-&lt;p&gt;Далее поехали на самый известный исторический маяк острова - маяк Кыпу (&lt;em&gt;Kõpu tuletorn&lt;/em&gt;), который является старейшим действующим маяком в Балтийских странах и одним из старейших в мире. Очень красивый, рекомендуем.
-&lt;img alt="Kõpu tuletorn" src="http://trips.philippov.info/images/summer-trip-2015/IMG_20150715_131936.jpg" title="Kõpu tuletorn"&gt;&lt;/p&gt;
-&lt;p&gt;Залезли, конечно.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0671.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0672.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;Там же и обедали.
-&lt;img alt="Обед у маяка" src="http://trips.philippov.info/images/summer-trip-2015/IMG_20150715_132403.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Дальше был паром. Билеты стоит заказывать через интернет, ибо паром маленький и ходит всего 4 раза в день - есть шанс, что места не хватит, с другой стороны - это шанс провести ещё один день на этом замечательном острове.
-&lt;img alt="Паром на Сааремаа" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0678.JPG" title="Паром на Сааремаа"&gt;&lt;/p&gt;
-&lt;p&gt;Паром идёт около 40 минут, высадились и поехали в небольшой музей ветряных мельниц в Англа.&lt;/p&gt;
-&lt;p&gt;Заводим трактор, &lt;del&gt;как поросёнок Пётр&lt;/del&gt;.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0681.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;Начинался вечер и поехали искать место для ночёвки, в описании &lt;a href="http://loodusegakoos.ee/kuda-poiti/zonq-otdqha/zona-otdqha-saaremaa/3651"&gt;место для палаток Каласма&lt;/a&gt; говорилось, что оно идеально для "любования закатом", туда и поехали.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0691.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Фортификация" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0686.JPG" title="Фортификация"&gt;&lt;/p&gt;
-&lt;p&gt;Побережье Сааремаа.
-&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0687.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0689.JPG"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://trips.philippov.info/images/summer-trip-2015/DSC_0690.JPG"&gt;&lt;/p&gt;
-&lt;h3&gt;День 5-6. 15-16 Июля: Курессааре, Пярну.&lt;/h3&gt;
-&lt;p&gt;Утром заехали в столицу острова - город Курессааре (Kuressaare). Прошлись по центральной улице, посмотрели епископский замок и поехали на материк, в Пярну.&lt;/p&gt;
-&lt;h3&gt;День 7. 17 Июля: Цесис.&lt;/h3&gt;
-&lt;h3&gt;День 8-9. 18-19 Июля: Сигулда, Рига.&lt;/h3&gt;
-&lt;h3&gt;День 10. 20 Июля: Кулдига, Пурциемсская Белая дюна.&lt;/h3&gt;
-&lt;h3&gt;День 11-12. 21-22 Июля: Колкасрагс, Мазирбе, Вентспилс.&lt;/h3&gt;
-&lt;h3&gt;День 13. 23 Июля: Гора Крестов, Каунас.&lt;/h3&gt;
-&lt;h3&gt;День 14-15. 24-25 Июля: Каунас, Вильнюс.&lt;/h3&gt;
-&lt;h3&gt;Итоги.&lt;/h3&gt;
-&lt;h4&gt;Траты.&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Подготовительные расходы:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Визы - 7.068 ₽&lt;/li&gt;
-&lt;li&gt;Страховки - 9.724 ₽&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Расходы в поездке:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Бензин - 17.613 ₽&lt;/li&gt;
-&lt;li&gt;Паромы - 2.400 ₽&lt;/li&gt;
-&lt;li&gt;Жильё - ~11.550 ₽ (182 €)&lt;/li&gt;
-&lt;li&gt;Еда, развлечения, прочие расходы - ~50.000 ₽&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>2015</category><category>auto</category><category>Estonia</category><category>Latvia</category><category>Lithuania</category><guid>http://trips.philippov.info/posts/summer-trip-2015/</guid><pubDate>Mon, 27 Jul 2015 15:21:23 GMT</pubDate></item></channel></rss>
+&lt;p&gt;На взлёт!&lt;/p&gt;&lt;/div&gt;</description><category>2016</category><category>Naryan-Mar</category><category>North</category><category>Russia</category><guid>http://trips.philippov.info/posts/naryan-mar-jan-2016/</guid><pubDate>Mon, 25 Jan 2016 10:02:33 GMT</pubDate></item></channel></rss>
